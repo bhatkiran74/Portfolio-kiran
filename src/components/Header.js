@@ -17,9 +17,12 @@ const Header = () => {
                     loop >
 
                 </Typed>
+
+                
                 <a className="btn-main-offer" href="#">Contact Us</a>
             </div>
 
+                
         </div>
     )
 }

@@ -3,9 +3,11 @@ import "bootstrap/dist/css/bootstrap.min.css"
 import Navbar from './components/Navbar';
 import Header from './components/Header'
 import Particles from 'react-particles-js';
+import About from './components/About';
 const App = () => {
   return (
     <div className="App">
+
       <Particles
         className="particle-canvas"
         params={{
@@ -30,7 +32,7 @@ const App = () => {
       />
       <Navbar />
       <Header />
-      <h2>Portfolio</h2>
+      <About />
     </div>
   );
 }
