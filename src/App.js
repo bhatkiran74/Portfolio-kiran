@@ -4,6 +4,7 @@ import Navbar from './components/Navbar';
 import Header from './components/Header'
 import Particles from 'react-particles-js';
 import About from './components/About';
+import Services from './components/Services'
 const App = () => {
   return (
     <div className="App">
@@ -33,6 +34,7 @@ const App = () => {
       <Navbar />
       <Header />
       <About />
+      <Services />
     </div>
   );
 }
