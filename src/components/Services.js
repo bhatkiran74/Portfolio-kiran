@@ -13,7 +13,7 @@ const Services = () => {
             <div className="container">
                 <h1 className="py-5">Services</h1>
                 <div className="row">
-                    <div className="col-md-3 col-sm-3">
+                    <div className="col-lg-3 col-md-6 col-sm-3">
                         <div className="box">
                             <div className="circle">
                                 <FontAwesomeIcon className="icon" icon={faGlobe} size="2x" />
@@ -25,7 +25,7 @@ const Services = () => {
                     </div>
                     {/*  */}
                     {/* 2 */}
-                    <div className="col-md-3 col-sm-3">
+                    <div className="col-lg-3 col-md-6 col-sm-3">
                         <div className="box">
                             <div className="circle">
 
@@ -37,7 +37,7 @@ const Services = () => {
 
                     </div>
                     {/*  */}
-                    <div className="col-md-3 col-sm-3">
+                    <div className="col-lg-3 col-md-6 col-sm-3">
                         <div className="box">
                             <div className="circle">
 
@@ -49,7 +49,7 @@ const Services = () => {
 
                     </div>
                     {/*  */}
-                    <div className="col-md-3 col-sm-3">
+                    <div className="col-lg-3 col-md-6 col-sm-3">
                         <div className="box">
 
                             <div className="circle">
